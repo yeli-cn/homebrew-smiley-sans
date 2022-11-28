@@ -7,5 +7,5 @@ cask "font-smiley-sans" do
   name "Smiley Sans"
   homepage "https://atelier-anchor.com/typefaces/smiley-sans/"
 
-  font "smiley-sans-v#{version}/SmileySans-Oblique.otf"
+  font "SmileySans-Oblique.otf"
 end
